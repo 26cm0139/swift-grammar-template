@@ -10,11 +10,16 @@
 
 ## 何ができるアプリか（3行）
 
-（例：買い物リストを作るアプリ。品名を入力して追加できる。買ったものにチェックを付けると一覧から消える。）
+【音描-ongaku-】イラストを描く、絵を音に変換する、ダウンロードする
+【なに食べるかな】気分を選択、スマホを振ってランダムで食べ物を表示(3km範囲のお店)、地図を表示
+
 
 ## 画面
 
-（スクリーンショットを貼る。GitHub の編集画面に画像をドラッグ＆ドロップすると貼れます。）
+<img width="136" height="258" alt="image" src="https://github.com/user-attachments/assets/60288673-a539-41b8-9332-2cb85291b5a3" /><img width="104" height="225" alt="image" src="https://github.com/user-attachments/assets/a774902d-df13-4181-87b3-3d58d936111d" /><img width="105" height="227" alt="image" src="https://github.com/user-attachments/assets/903ad2a5-2691-4b36-a270-b81ceabb43fd" />
+
+
+
 
 ## 使った文法・技術
 
