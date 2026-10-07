@@ -24,7 +24,28 @@
 ## 使った文法・技術
 
 （例：`@State`、`List`、`ForEach`、構造体、配列の `append` と `remove`）
+CLLocationManager()
+@Published
+@StateObject
+@State
+MapCameraPosition
+MKMapItem
+Map(position: $position, selection: $selectedItem)
+CLLocationCoordinate2D
+MKLocalSearch
 
+
+
+UIImpactFeedbackGenerator
+NSDataAsset
+AVAudioPlayer
+
+NavigationStack 
+RadialGradient
+GeometryReader
+Ellipse
+gesture
+ForEach
 ## 生成AIの使い方（どの場面で、どう使ったか）
 
 （例：画面の骨組みは ChatGPT に書いてもらった。削除ボタンが効かなかったので、原因を質問して直した。）
