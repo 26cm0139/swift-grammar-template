@@ -16,11 +16,13 @@
 
 ## 画面
 
-<img width="136" height="258" alt="image" src="https://github.com/user-attachments/assets/60288673-a539-41b8-9332-2cb85291b5a3" />
-<img width="166" height="361" alt="image" src="https://github.com/user-attachments/assets/1947ff11-9ccc-4502-a7f1-2823a0c821f7" />
-<img width="166" height="361" alt="image" src="https://github.com/user-attachments/assets/48daa57e-b624-4c3f-b7be-44ccdcdd7956" />
-<img width="166" height="361" alt="image" src="https://github.com/user-attachments/assets/ef6ae30e-03d8-4591-ad81-b9ef06f9023c" />
-<img width="166" height="360" alt="image" src="https://github.com/user-attachments/assets/b57b7085-a67b-40fb-b003-d54bf6c6f2e8" />
+![アプリの画面](screen1.png)
+![アプリの画面](screen2.png)
+![アプリの画面](screen3.png)
+![アプリの画面](screen4.png)
+![アプリの画面](screen5.png)
+![アプリの画面](screen6.png)
+![アプリの画面](screen7.png)
 
 
 
