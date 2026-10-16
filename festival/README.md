@@ -16,7 +16,14 @@
 
 ## 画面
 
-<img width="136" height="258" alt="image" src="https://github.com/user-attachments/assets/60288673-a539-41b8-9332-2cb85291b5a3" /><img width="104" height="225" alt="image" src="https://github.com/user-attachments/assets/a774902d-df13-4181-87b3-3d58d936111d" /><img width="105" height="227" alt="image" src="https://github.com/user-attachments/assets/903ad2a5-2691-4b36-a270-b81ceabb43fd" />
+<img width="136" height="258" alt="image" src="https://github.com/user-attachments/assets/60288673-a539-41b8-9332-2cb85291b5a3" />
+<img width="166" height="361" alt="image" src="https://github.com/user-attachments/assets/1947ff11-9ccc-4502-a7f1-2823a0c821f7" />
+<img width="166" height="361" alt="image" src="https://github.com/user-attachments/assets/48daa57e-b624-4c3f-b7be-44ccdcdd7956" />
+<img width="166" height="361" alt="image" src="https://github.com/user-attachments/assets/ef6ae30e-03d8-4591-ad81-b9ef06f9023c" />
+<img width="166" height="360" alt="image" src="https://github.com/user-attachments/assets/b57b7085-a67b-40fb-b003-d54bf6c6f2e8" />
+
+
+
 
 
 
