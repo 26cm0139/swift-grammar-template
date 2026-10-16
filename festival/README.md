@@ -1,3 +1,4 @@
+
 # 日専祭アプリ：（アプリ名をここに書く）
 
 > **チーム：** チーム名：みつぼし　氏名：26cm0129古田裕稀、26cm0128封怡璇、26cm0139李安琪
@@ -15,14 +16,18 @@
 
 
 ## 画面
+<img width="300" height="500" alt="screen1" src="https://github.com/user-attachments/assets/61e44ed4-877c-4cd1-b54f-982250933782" />
+<img width="300" height="500" alt="screen2" src="https://github.com/user-attachments/assets/601f6578-af71-4d8e-9a66-001a8348e033" />
+<img width="300" height="500" alt="screen3" src="https://github.com/user-attachments/assets/055cba10-13d7-4281-bb3c-f8e444e89f48" />
+<img width="300" height="500" alt="screen4" src="https://github.com/user-attachments/assets/cde2fbd5-52b1-4207-999d-a620b6ff859a" />
+<img width="300" height="500" alt="screen5" src="https://github.com/user-attachments/assets/6d85d1b7-6be5-4c04-b6ec-952a90eaa0c3" />
+<img width="300" height="500" alt="screen6" src="https://github.com/user-attachments/assets/a0878464-1062-43a9-9f62-4d62b430683a" />
+<img width="300" height="500" alt="screen7" src="https://github.com/user-attachments/assets/1f8b4308-3434-4648-b875-eb155d557e1b" />
 
-![アプリの画面](screen1.png)
-![アプリの画面](screen2.png)
-![アプリの画面](screen3.png)
-![アプリの画面](screen4.png)
-![アプリの画面](screen5.png)
-![アプリの画面](screen6.png)
-![アプリの画面](screen7.png)
+
+
+
+
 
 
 
